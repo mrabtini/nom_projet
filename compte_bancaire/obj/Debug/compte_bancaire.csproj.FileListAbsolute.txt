@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.pdb
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csprojAssemblyReference.cache
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.exe
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe.config
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.exe
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\bin\Debug\compte_bancaire.pdb
+C:\Users\utilisateur\Desktop\compte_bancaire\compte_bancaire\obj\Debug\compte_bancaire.pdb
